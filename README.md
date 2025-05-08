@@ -1,5 +1,5 @@
 <h1 align="center" style="border-bottom: none">
-    <img alt="Azure" src="./img/azure.png">
+    <img alt="Azure" src="./img/azure.png" width="300" height="200">
 </h1>
 
 <p align="center">Acesse o <a href="https://learn.microsoft.com/en-us/azure/?product=popular" target="_blank">site oficial</a> 
