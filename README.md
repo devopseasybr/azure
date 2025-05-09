@@ -13,6 +13,8 @@ para uma documentação completa, exemplos e guias.</p>
 É o processo de verificar a identidade de um usuário ou serviço que está tentando acessar um recurso ou serviço garantindo que
 apenas usuários e serviços legítimos tenham permissão para acessar recursos específicos.
 
+![Autenticacao](./img/autenticacao.png)
+
 * ```Azure Active DIrectory(Azure AD)```  
     Serviço de gerenciamento de identidades e acessos baseado em nuvem que permite autenticar e autorizar usuários e serviços em aplicativos e recursos do Azure.
 
