@@ -1,6 +1,6 @@
 # Arquitetura e serviços do Azure
 
-![azure](./img/az-900-module2.1.png)
+![azure](./img/arquitetura.png)
 
 * ```Regiões```
   * Área geográfica específica que contém um ou mais Datacenters.

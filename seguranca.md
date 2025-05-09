@@ -1,5 +1,7 @@
 # Identidade, Acesso e Segurança
 
+![seguranca](./img/seguranca.png)
+
 **Autenticação**  
 É o processo de verificar a identidade de um usuário ou serviço que está tentando acessar um recurso ou serviço garantindo que
 apenas usuários e serviços legítimos tenham permissão para acessar recursos específicos.
