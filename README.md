@@ -12,6 +12,6 @@ para uma documentação completa, exemplos e guias.</p>
 MENU
  - [Conceitos de Nuvem](conceitos.md)
  - [Arquitetura e serviços do Azure](arquitetura.md)
- - [Identidade, Acesso e Segurança](segurança.md)
+ - [Identidade, Acesso e Segurança](seguranca.md)
 
 ---
