@@ -60,7 +60,7 @@ Gerencia automaticamente a manutenção, atualizaões e ajustes de desempenho do
 de dados, permitindo que os desenvolvedores se concentrem em projetar e consultar os dados.
 
 ```Azure Cosmos DB```  
-Servio de bando de dados globalmente distribuído e escalável que suporte vários modelos de dados, incluindo documentos, chave-valor, colunas e gráficos.
+Servio de banco de dados globalmente distribuído e escalável que suporte vários modelos de dados, incluindo documentos, chave-valor, colunas e gráficos.
 
 ---
 
